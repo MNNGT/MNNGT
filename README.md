@@ -22,7 +22,7 @@ I'm interested in contributing to research projects involving health data analys
 ## 💻 Technical Skills
 
 - **R:** Data management, statistical analysis, data visualization and reproducible reporting
-  - Packages: `data.table`, `dplyr`, `tidyr`, `ggplot2`, `patchwork`, `fitdistrplus`, `janitor`, `flextable`
+  - Packages: `data.table`, `dplyr`, `tidyr`, `ggplot2`, `patchwork`, `fitdistrplus`, `janitor`, `flextable`,...
   - Tools: R Markdown, Quarto
 - **Stata:** Statistical analysis and regression methods
 - **Python:** Currently developing programming skills for data analysis
