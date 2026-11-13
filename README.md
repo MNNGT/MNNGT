@@ -1,35 +1,23 @@
-# Hi, I'm Marie-Noëlle 👋
+# Hey there, I'm Marie-Noëlle 👋
 
-**Public Health | Epidemiology | Health Data Analysis**
+Public health graduate (MSc MQERS, Aix-Marseille University) based in Martinique 🌴
+I also hold BSc degrees in Physics-Chemistry and in Mathematics (Université des Antilles).
+I turn health data into answers about epidemics and their cost.
 
-MSc graduate in Public Health (MQERS – Quantitative and Econometric Methods for Health Research) from Aix-Marseille University, based in Martinique, French Caribbean.
+## 🔬 What I've been working on
+My favorite project so far: estimating the economic burden of the **2023–2024 dengue epidemic in Martinique**, during my internship at Santé publique France. Multiple health data sources, cost-of-illness analysis and Monte Carlo simulation.
 
-Interested in epidemiology, infectious diseases, health economics and quantitative methods applied to public health.
+🎤 **Fun fact:** I won [*Mon stage en 180 secondes*](COLLE-TON-LIEN-ICI), a science communication contest where you explain your internship in 3 minutes.
 
-## 🔬 Research Interests
-- Epidemiology and infectious disease surveillance
-- Arboviruses, particularly dengue
-- Health economics and medico-economic evaluation
-- Biostatistics and econometrics
-- Clinical research
+## 💻 What I use
+**R** is my main tool, with **Stata** next to it, and I'm learning **Python**.
+I work with R Markdown, Quarto, Git and GitHub.
+I also use AI-assisted programming tools such as **Claude Code** and **ChatGPT**.
+Favorite methods: Monte Carlo simulation, sensitivity analysis, data quality control.
 
-## 💻 Technical Skills
-- **R:** Data management, statistical analysis and visualization
-- **Stata:** Statistical analysis and regression
-- **Python:** Currently developing my skills
-- **Tools:** R Markdown, Quarto, Git and GitHub
-- **Methods:** Monte Carlo simulation, sensitivity analysis and data quality control
+## 🔎 What I'm looking for
+Research and project coordination roles in epidemiology, infectious diseases, health economics and clinical research.
+Despite my very scientific background, I also have 5 years of experience in retail, where I built strong customer service and teamwork skills.
 
-## 🎓 Education
-- MSc in Public Health – MQERS, Aix-Marseille University
-- BSc in Mathematics – Université des Antilles
-- BSc in Physics, Chemistry, Materials, Energy and Environment – Université des Antilles
-- Two years of medical studies
-
-## 🌍 Languages
-- French: Native
-- English: B2
-- Spanish: A2
-
-## 🌿 Beyond Research
-📈 Trading · ♟️ Chess · 🌍 Economics · 🍳 Cooking · 🏋️ Fitness · 🐈 Cats
+## 🌿 Outside of work
+📈 Trading · ♟️ Chess · 🍳 Cooking · 🏋️ Fitness · 🐈 Cat lover for life
