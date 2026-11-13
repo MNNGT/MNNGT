@@ -1,21 +1,55 @@
-# Hey there, I'm Marie-Noëlle 👋
+# Hi 👋, I'm Marie-Noëlle
 
-Public health graduate (MSc MQERS, Aix-Marseille University) based in Martinique 🌴
-I also hold BSc degrees in Physics-Chemistry and in Mathematics (Université des Antilles).
+### Public Health | Epidemiology | Health Data Analysis
 
-## 🔬 What I've been working on
-My favorite project so far: estimating the economic burden of the **2023–2024 dengue epidemic in Martinique**, during my internship at Santé publique France. Multiple health data sources, cost-of-illness analysis and Monte Carlo simulation.
+- 🔭 I'm currently working on **Reproducible R workflows for dengue surveillance and the medico-economic evaluation of epidemics in Martinique**
 
-🎤 **Fun fact:** I won [*Mon stage en 180 secondes*](COLLE-TON-LIEN-ICI), a science communication contest where you explain your internship in 3 minutes.
+- 🌱 I'm currently learning **Python (pandas) for health data analysis, and reproducible research with Quarto**
 
-## 💻 What I use
-**R** is my main tool, with **Stata** next to it, and I'm learning **Python**.
-I work with R Markdown, Quarto, Git and GitHub.
-Favorite methods: Monte Carlo simulation, sensitivity analysis, data quality control.
-I also use AI-assisted programming tools such as **Claude Code** and **ChatGPT**.
+- 👯 I'm looking to collaborate on **Research and project coordination in epidemiology, infectious diseases, health economics and clinical research**
 
-## 🔎 What I'm looking for
-Research and project coordination roles in epidemiology, infectious diseases, health economics and clinical research.
+- 🤝 I'm looking for help with **Python for data analysis**
 
-## 🌿 Outside of work
-📈 Trading · ♟️ Chess · 🍳 Cooking · 🏋️ Fitness · 🐈 Cat lover for life
+- 💬 Ask me about **Dengue, cost-of-illness studies, Monte Carlo simulation, R**
+
+- 📫 How to reach me **marienoellenogeant@gmail.com**
+
+- ⚡ Fun fact **I won “[*Mon stage en 180 secondes*](https://youtu.be/qXOYK4qQm6s?si=mp_iBYRtK8B8MdEh)”, a science communication contest where you explain your internship in 3 minutes**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/MNNGT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MNNGT" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marie-noëlle-nogeant-173679222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marie-noëlle-nogeant-173679222" height="30" width="40" /></a>
+<a href="https://twitter.com/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="." height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge&logo=stata&logoColor=white" alt="Stata" />
+<img src="https://img.shields.io/badge/R%20Markdown-2C3E50?style=for-the-badge&logo=markdown&logoColor=white" alt="R Markdown" />
+<img src="https://img.shields.io/badge/Quarto-39729E?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto" />
+</p>
+
+<p align="left">
+<strong>R</strong> (data.table, dplyr, ggplot2, fitdistrplus) · <strong>Stata</strong> · R Markdown · Quarto
+</p>
+
+<p align="left">
+AI-assisted programming: <strong>Claude Code</strong> · <strong>ChatGPT</strong>
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+</p>
+
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
+</p>
