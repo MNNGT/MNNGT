@@ -24,7 +24,7 @@ Interested in epidemiology, infectious diseases, health economics and quantitati
 - MSc in Public Health – MQERS, Aix-Marseille University
 - BSc in Mathematics – Université des Antilles
 - BSc in Physics, Chemistry, Materials, Energy and Environment – Université des Antilles
-- Two years of undergraduate medical studies
+- Two years of medical studies
 
 ## 🌍 Languages
 - French: Native
