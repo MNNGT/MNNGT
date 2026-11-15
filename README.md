@@ -1,59 +1,49 @@
 # Hi 👋, I'm Marie-Noëlle
 
-### Public Health | Epidemiology | Health Data Analysis
+**Public Health · Epidemiology · Health Data Analysis**
 
-- 🔭 I'm currently working on **Reproducible R workflows for dengue surveillance and the medico-economic evaluation of epidemics in Martinique**
+**🇬🇧 English** | [🇫🇷 Français](./README.fr.md)
 
-- 🌱 I'm currently learning **Python (pandas) for health data analysis, and reproducible research with Quarto**
+I'm a public health graduate interested in epidemiology, infectious diseases, health economics, and reproducible analysis of health data.
 
-- 👯 I'm looking to collaborate on **Research and project coordination in epidemiology, infectious diseases, health economics and clinical research**
+- 🔭 **Current work:** Reproducible R workflows for dengue surveillance and the medico-economic evaluation of epidemics in Martinique.
+- 🌱 **Learning:** Python (especially `pandas`) for health data analysis, while further developing reproducible research workflows with Quarto.
+- 👯 **Open to collaboration:** Epidemiology, infectious diseases, health economics, clinical research, and research project coordination.
+- 🤝 **Looking to improve:** Python skills for data analysis.
+- 💬 **Ask me about:** Dengue, cost-of-illness studies, Monte Carlo simulation, and R.
+- 🏆 **Science communication:** Winner of [*Mon stage en 180 secondes*](https://youtu.be/qXOYK4qQm6s?si=mp_iBYRtK8B8MdEh), a contest in which participants present their internship in three minutes.
+- 📫 **Contact:** [marienoellenogeant@gmail.com](mailto:marienoellenogeant@gmail.com)
 
-- 🤝 I'm looking for help with **Python for data analysis**
+### Languages and tools
 
-- 💬 Ask me about **Dengue, cost-of-illness studies, Monte Carlo simulation, R**
+**Statistical analysis and reproducible research**
 
-- 📫 How to reach me **marienoellenogeant@gmail.com**
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R%20Shiny-1E90FF?style=for-the-badge&logo=r&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge&logoColor=white)
+![R Markdown](https://img.shields.io/badge/R%20Markdown-2C3E50?style=for-the-badge&logo=markdown&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-39729E?style=for-the-badge&logo=quarto&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- ⚡ Fun fact **I won “[*Mon stage en 180 secondes*](https://youtu.be/qXOYK4qQm6s?si=mp_iBYRtK8B8MdEh)”, a science communication contest where you explain your internship in 3 minutes**
+**R packages:** `data.table` · `dplyr` · `ggplot2` · `fitdistrplus` · and others.
 
-<h3 align="left">Languages and Tools:</h3>
+**Python ecosystem (in progress):** Python · `pandas` · `matplotlib`.
 
-<p align="left">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /> 
-<img src="https://img.shields.io/badge/R%20Shiny-1E90FF?style=for-the-badge&logo=r&logoColor=white" alt="R Shiny" />
-<img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge&logo=stata&logoColor=white" alt="Stata" />
-<img src="https://img.shields.io/badge/R%20Markdown-2C3E50?style=for-the-badge&logo=markdown&logoColor=white" alt="R Markdown" />
-<img src="https://img.shields.io/badge/Quarto-39729E?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto" />
-(data.table, dplyr, ggplot2, fitdistrplus, .....) 
+**Office and creative tools**
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logoColor=white)
+![Publisher](https://img.shields.io/badge/Publisher-077568?style=for-the-badge&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
-</p>
+**AI-assisted programming**
 
-<p align="left">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" />
-<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge" alt="Word" />
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge" alt="PowerPoint" />
-<img src="https://img.shields.io/badge/Publisher-077568?style=for-the-badge" alt="Publisher" />
-</p>
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
-<p align="left">
-AI-assisted programming: 
-</p>
-<p align="left">
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-</p>
+### Connect with me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/MNNGT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MNNGT" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marie-noëlle-nogeant-173679222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marie-noëlle-nogeant-173679222" height="30" width="40" /></a>
-<a href="https://twitter.com/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="." height="30" width="40" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-MNNGT-181717?style=flat&logo=github&logoColor=white)](https://github.com/MNNGT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marie--No%C3%ABlle-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marie-noëlle-nogeant-173679222)
